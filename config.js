@@ -1,0 +1,3 @@
+import { GEOCODING_API_KEY, GEOCODING_BASE_URL } from "@env";
+
+export default { GEOCODING_API_KEY, GEOCODING_BASE_URL };
